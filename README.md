@@ -13,7 +13,7 @@ I use this profile for proofs of concept, university projects, and experiments. 
 
 My most polished work, libraries, and main projects (where I focus all my effort on quality and best practices) are in my GitHub organization: **Bit Meshi**.
 
-> ## 👉 [Visit my Professional Portfolio at BitMeshi](https://github.com/bitmeshi) 👈
+> ## 👉 [Visit my Professional Portfolio at Bitmeshi](https://github.com/bitmeshi) 👈
 
 ---
 
