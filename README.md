@@ -11,7 +11,7 @@ This is my personal profile, my "experiment workshop". Welcome!
 ### 🔎 **Looking for my professional portfolio?**
 I use this profile for proofs of concept, university projects, and experiments. It's my playground for trying new things and, sometimes, breaking them. 😅
 
-My most polished work, libraries, and main projects (where I focus all my effort on quality and best practices) are in my GitHub organization: **Bit Meshi**.
+My most polished work, libraries, and main projects (where I focus all my effort on quality and best practices) are in my GitHub organization: **Bitmeshi**.
 
 > ## 👉 [Visit my Professional Portfolio at Bitmeshi](https://github.com/bitmeshi) 👈
 
